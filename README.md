@@ -15,7 +15,7 @@ __`cls.`__: classification &emsp; | &emsp; __`sem.`__: semantic segmentation &em
 ## 2017
 - [[3DOR](https://diglib.eg.org/bitstream/handle/10.2312/3dor20171047/017-024.pdf?sequence=1&isAllowed=y)] Unstructured Point Cloud Semantic Labeling Using Deep Segmentation Networks. [[code](https://github.com/aboulch/snapnet)] [__`sem.`__]
 - [[3DV](https://ieeexplore.ieee.org/abstract/document/8374608)] SEGCloud: Semantic Segmentation of 3D Point Clouds. [__`sem.`__]
-- [[arXiv](https://arxiv.org/abs/1706.01307)] Submanifold Sparse Convolutional Networks. [[code](https://github.com/facebookresearch/SparseConvNet)] [__`sem`__]
+- [[arXiv](https://arxiv.org/abs/1706.01307)] Submanifold Sparse Convolutional Networks. [[code](https://github.com/facebookresearch/SparseConvNet)] [__`cls.`__]
 - [[CVPR](https://openaccess.thecvf.com/content_cvpr_2017/html/Simonovsky_Dynamic_Edge-Conditioned_Filters_CVPR_2017_paper.html)] Dynamic Edge-Conditioned Filters in Convolutional Neural Networks on Graphs. [__`cls.`__]
 - [[CVPR](https://openaccess.thecvf.com/content_cvpr_2017/html/Chen_Multi-View_3D_Object_CVPR_2017_paper.html)] Multi-View 3D Object Detection Network for Autonomous Driving. [__`det.`__]
 - [[CVPR](https://openaccess.thecvf.com/content_cvpr_2017/html/Riegler_OctNet_Learning_Deep_CVPR_2017_paper.html)] OctNet: Learning Deep 3D Representations at High Resolutions. [[code](https://github.com/griegler/octnet)] [__`cls.`__, __`sem.`__, __`oth.`__]
