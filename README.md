@@ -1,4 +1,4 @@
-# awesome-point-cloud-analysis [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome-Point-Cloud-Analysis [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 <h1> 
 
