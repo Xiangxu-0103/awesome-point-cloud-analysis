@@ -268,6 +268,7 @@ with Diamond inceptiOn module. [__`sem.`__]
 - [[arxiv](https://arxiv.org/abs/2203.17270)] BEVFormer: Learning Bird's-Eye-View Representation from Multi-Camera Images via Spatiotemporal Transformers. [[code](https://github.com/zhiqi-li/BEVFormer)] [__`det.`__]
 - [[arxiv](https://arxiv.org/abs/2205.13542)] BEVFusion: Multi-Task Multi-Sensor Fusion with Unified Bird's-Eye View Representation. [[code](https://github.com/mit-han-lab/bevfusion)] [__`det.`__]
 - [[arXiv](https://arxiv.org/abs/2201.02963)] Box2Seg: Learning Semantics of 3D Point Clouds with Box-Level Supervision. [__`sem.`__]
+- [[arXiv](https://arxiv.org/abs/2206.04670)] PointNeXt: Revisiting PointNet++ with Improved Training and Scaling Strategies. [[code](https://github.com/guochengqian/pointnext)] [__`cls.`__, __`sem.`__]
 - [[CVIU](https://www.sciencedirect.com/science/article/pii/S1077314221001399)] Deep structural information fusion for 3D object detection on LiDAR–camera system. [__`det.`__]
 - [[CVPR](https://openaccess.thecvf.com/content/CVPR2022/html/Yang_A_Unified_Query-Based_Paradigm_for_Point_Cloud_Understanding_CVPR_2022_paper.html)] A Unified Query-based Paradigm for Point Cloud Understanding. [__`cls.`__, __`sem.`__, __`det.`__]
 - [[CVPR](https://openaccess.thecvf.com/content/CVPR2022/html/Xu_Back_to_Reality_Weakly-Supervised_3D_Object_Detection_With_Shape-Guided_Label_CVPR_2022_paper.html)] Back to Reality: Weakly-supervised 3D Object Detection with Shape-guided Label Enhancement. [[code](https://github.com/wyf-ACCEPT/BackToReality)] [__`det.`__]
@@ -325,6 +326,6 @@ with Diamond inceptiOn module. [__`sem.`__]
 </h1>
 
 - [[Det3D](https://github.com/poodarchu/Det3D)]: A general 3D object detection codebase in PyTorch.
+- [[MMDetection3D](https://github.com/open-mmlab/mmdetection3d)]: An open source object detection toolbox based on PyTorch, towards the next-generation platform for general 3D detection.
 - [[Open3DSOT](https://github.com/Ghostish/Open3DSOT)]: A general python framework for single object tracking in LiDAR point clouds, based on PyTorch Lightning.
 - [[OpenPCDet](https://github.com/open-mmlab/OpenPCDet)]: A clear, simple, self-contained open source project for LiDAR-based 3D object detection.
-- [[MMDetection3D](https://github.com/open-mmlab/mmdetection3d)]: An open source object detection toolbox based on PyTorch, towards the next-generation platform for general 3D detection.
